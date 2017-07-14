@@ -303,6 +303,7 @@
 				AE59577C1F13E435002E7B34 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
